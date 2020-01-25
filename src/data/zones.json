@@ -1,0 +1,26 @@
+[
+  {
+    "name": "armalit",
+    "access": [3],
+    "photos": ["/static/img/armalit/01.png", "/static/img/armalit/02.png", "/static/img/armalit/03.png", "/static/img/armalit/04.png", "/static/img/armalit/05.png", "/static/img/armalit/06.png", "/static/img/armalit/07.png", "/static/img/armalit/08.png", "/static/img/armalit/09.png"],
+    "id": "1"
+  },
+  {
+    "name": "askold",
+    "access": [1, 2],
+    "photos": ["/static/img/askold/01.png", "/static/img/askold/02.png", "/static/img/askold/03.png", "/static/img/askold/04.png", "/static/img/askold/05.png", "/static/img/askold/06.png", "/static/img/askold/07.png", "/static/img/askold/08.png", "/static/img/askold/09.png", "/static/img/askold/10.png"],
+    "id": "2"
+  },
+  {
+    "name": "burevestnik",
+    "access": [3],
+    "photos": ["/static/img/burevestnik/01.png", "/static/img/burevestnik/02.png", "/static/img/burevestnik/03.png", "/static/img/burevestnik/04.png", "/static/img/burevestnik/05.png", "/static/img/burevestnik/06.png"],
+    "id": "3"
+  },
+  {
+    "name": "skbk",
+    "access": [3],
+    "photos": ["/static/img/skbk/01.png", "/static/img/skbk/02.png", "/static/img/skbk/03.png", "/static/img/skbk/04.png", "/static/img/skbk/05.png", "/static/img/skbk/06.png"],
+    "id": "4"
+  }
+]
